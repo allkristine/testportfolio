@@ -1,0 +1,12 @@
+<html>
+<head><title>about Kristine</title></head>
+
+<body>
+
+	<h1>About Me</h1>
+	<p>These are all the things about me I like moths and couches and long walks on the laser beams</p>
+</body>
+
+
+
+</html>
