@@ -6,7 +6,7 @@
 	<h1>About Me</h1>
 	<p>These are all the things about me I like moths and couches and long walks on the laser beams</p>
 
-<img src="https://cdn.cnn.com/cnnnext/dam/assets/141030105303-kiki-irpt-horizontal-large-gallery.jpg" /> 
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/141030105303-kiki-irpt-horizontal-large-gallery.jpg"/> 
 
 </body>
 
